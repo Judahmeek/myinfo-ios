@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  SearchViewController.swift
 //  MyInfo
 //
 //  Created by Judah Meek on 10/21/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class SearchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

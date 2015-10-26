@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  ContactDetailsViewController.swift
 //  MyInfo
 //
 //  Created by Judah Meek on 10/21/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ContactDetailsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
